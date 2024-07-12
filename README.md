@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshit-rv&label=Profile%20views&color=0e75b6&style=flat" alt="harshit-rv" /> </p>
 
-- 🌱 I’m currently focusing on <a href="https://flutter.dev/" target="blank"> **Flutter.** </a>
+- 🌱 I’m currently focusing on React and  <a href="https://flutter.dev/" target="blank"> **Flutter.** </a>
 
 - 👯 I’m looking to collaborate on **new projects.**
 
