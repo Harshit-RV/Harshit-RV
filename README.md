@@ -1,5 +1,3 @@
-<h2 align="left">Hello there, I'm Harshit</h2>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshit-rv&label=Profile%20views&color=0e75b6&style=flat" alt="harshit-rv" /> </p>
 
 - See my work at [harshitrv.com](https://harshitrv.com/)
